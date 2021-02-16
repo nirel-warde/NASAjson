@@ -1,4 +1,4 @@
-"Day": {
+{"Day": {
     "First_UTC": "2021-02-06T17:08:11Z", 
     "Last_UTC": "2021-02-07T17:47:46Z", 
     "Month_ordinal": 12, 
@@ -16,3 +16,4 @@
       "most_common": null
     }
   }
+}
