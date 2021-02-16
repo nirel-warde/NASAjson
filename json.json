@@ -1,0 +1,18 @@
+"Day": {
+    "First_UTC": "2021-02-06T17:08:11Z", 
+    "Last_UTC": "2021-02-07T17:47:46Z", 
+    "Month_ordinal": 12, 
+    "Average_temperature": 4, 
+    "Northern_season": "late winter", 
+    "PRE": {
+      "av": 721.77, 
+      "ct": 113450, 
+      "mn": 698.8193, 
+      "mx": 742.2686
+    }, 
+    "Season": "winter", 
+    "Southern_season": "late summer", 
+    "WD": {
+      "most_common": null
+    }
+  }
